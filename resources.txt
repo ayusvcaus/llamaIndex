@@ -1,0 +1,4 @@
+Flask
+llama-index
+pytest
+python-dotenv==1.0.0
